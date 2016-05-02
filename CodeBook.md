@@ -50,6 +50,7 @@ The following files are available for the train and test data. Their description
 
 ##TRAINING AND TEST SETS WERE COMBINED TO MAKE ONE LARGE DATA SET CALLED MERGE_TRAIN_TEST
 ###Only the Mean and Standard Deviation calculations were used
+###Activities were initially numbered 1-6.  To make the file more readable, I updated the #'s to their actual activity name.
 
 Feature Selection 
 =================
